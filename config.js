@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "haha",
-    introTitle: 'Hảo à ...',
+    introTitle: 'hảo này ...',
     introDesc: `mình quen nhau cũng lâu rồi .Bây giờ t có lời muốn nói `,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'yêu quá hihi<3',
+    btnReply: 'yêu nha  <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'làm người yêu t nha <3',
